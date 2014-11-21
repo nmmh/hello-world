@@ -1,4 +1,6 @@
 hello-world
 ===========
 
-First
+First Branch and commit of a project. 
+
+Just learning.
